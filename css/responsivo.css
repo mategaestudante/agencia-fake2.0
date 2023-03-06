@@ -1,0 +1,847 @@
+@media screen and (max-width:1280px){
+    .menu{
+        padding-right: 40px;
+    }
+    
+}
+@media screen and (max-width:1279px) {
+    .logo h1{
+        width: 150px;
+    }
+    .logo {
+        padding-left: 5%;
+    }
+
+}
+
+@media screen and (max-width:1045px) {
+    .foto img {
+        width: 550px;
+        height: 350px;
+    }
+
+    .intro .foto {
+        margin-top: 25px;
+    }
+
+    .logo>h1 {
+        width: 200px;
+    }
+
+    .menu {
+        padding-left: 30%;
+    }
+}
+
+@media screen and (max-width:1110px) {
+    .logo {
+        padding-left: 2%;
+    }
+
+    .pg01 {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 1005px) {
+    label{
+        display: block;
+    }
+    span#burguer{
+        display: block;
+    }
+    .lista-burguer{
+        display: block;
+    }
+    .menu {
+        display: none;
+    }
+
+    .logo {
+        width: 0;
+        margin: 0px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .foto img {
+        width: 500px;
+        height: 300px;
+    }
+
+    .intro .foto {
+        margin-top: 70px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .intro .foto {
+        margin-top: 70px;
+    }
+
+    .texto-area {
+        padding-left: 5%;
+    }
+
+    .pg01 {
+        letter-spacing: 10px;
+        font-size: 1em;
+    }
+
+    .intro>div>h1 {
+        font-size: 2em;
+    }
+
+    .card {
+        width: 280px;
+        height: 380px;
+    }
+}
+
+@media screen and (max-width: 980px) {}
+
+@media screen and (max-width:920px) {
+    .card {
+        width: 240px;
+        height: 380px;
+    }
+
+    .card>img {
+        margin-left: 90px;
+    }
+}
+
+@media screen and (max-width:916px) {
+    .texto-area {
+        padding-left: 2%;
+    }
+}
+@media screen and (max-width:870px){
+    .foto img {
+        display: none;
+    }
+
+    .pic img {
+
+        display: block;
+    }
+}
+@media screen and (max-width:820px){
+ 
+}
+@media screen and (max-width:819.9px){
+  
+}
+@media screen and (max-width:800px) {
+    .card {
+        width: 200px;
+        height: 380px;
+    }
+
+    .card img {
+        margin: 0;
+        margin-left: 70px;
+        margin-top: 5px;
+    }
+
+    .texto {
+        margin-top: 200px;
+    }
+}
+
+@media screen and (max-width:790px) {
+    .pg01 {
+        letter-spacing: 5px;
+    }
+
+  
+    .logo{
+        padding-left: 0;
+    }
+}
+@media screen and (max-width:768px){
+    .texto{
+        margin: 0;
+    }
+    .logo{
+        margin-left: 30px;
+
+    }
+}
+@media screen and (max-width:767.9px){
+    footer{
+        position: relative;
+        bottom: 0;
+    }
+}
+
+@media screen and (max-width:710px) {
+    .texto-header {
+        padding-top: 25px;
+    }
+
+    .pg01 {
+        width: 300px;
+    }
+
+}
+
+@media screen and (max-width:670px) {
+    .card {
+        width: 160px;
+        height: 380px;
+    }
+
+    .card>img {
+        margin: 0;
+        margin-left: 50px;
+    }
+    .texto-header .pic {
+        padding-left: 0;
+    }
+}
+
+@media screen and (max-width:570px) {
+    .pic img{
+        width:500px ;
+        height:300px ;
+    }
+    .card {
+        width: 160px;
+        height: 380px;
+    }
+
+    .card>img {
+        margin: 0;
+        margin-left: 60px;
+        width: 45px;
+        height: 45px;
+    }
+
+}
+
+@media screen and (max-width:560px) {
+    .info{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .card {
+        width: 160px;
+        height: 360px;
+    }
+
+    .card>img {
+        width: 32px;
+        height: 32px;
+    }
+}
+@media screen and (max-width:517px){
+    .pic img{
+        width:490px ;
+        height:300px ;
+    }
+    
+}
+@media screen and (max-width:508px){
+    .pic img{
+        width: 480px;
+        height: 300px;
+    }
+    .pg02{
+        font-size: small;
+    }
+}
+@media screen and (max-width:497px){
+    .pic img{
+        width: 470px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:505px){
+    .card{
+        width: 150px;
+        height: 370px;
+    }
+    .texto{
+        font-size: larger;
+    }
+}
+@media screen and (max-width:487px){
+    .pic img{
+        width: 460px;
+        height: 300px;
+    }
+    .card{
+        width:150px;
+        height: 300px;
+    }
+    .card h1{
+        font-size: small;
+    }
+    .card p{
+        font-size: small;
+    }
+}
+@media screen and (max-width:477px){
+    .pic img{
+        width: 450px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:467px){
+    .pic img{
+        width:440px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:457px){
+    .pic img{
+        width: 430px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width:450px){
+    .card{
+        width:130px;
+        height: 310px;
+    }
+    .card h1{
+         font-size: small;
+    }
+    .card p{
+        font-size: small;
+    }
+    .card img{
+        margin: 0;
+        margin-left: 50px;
+    }
+}
+@media screen and (max-width:447px){
+    .pic img{
+        width:420px ;
+        height: 300px ;
+    }
+}
+@media screen and (max-width:437px){
+    .pic img{
+        width: 410px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:427px) {
+    .pic img{
+        width: 400px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:417px){
+    .pic img{
+        width: 390px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:415px) {
+    .logo h1{
+        width: 130px;
+    }
+    .texto-header{
+        padding-left: 0;
+    }
+    .texto-header > h1{
+        padding-left: 10px;
+        font-size: larger;
+    }
+    .pg01{
+        padding-left: 10px;
+    }
+    .texto-header .pg02{
+        padding-left: 10px;
+        font-size: small;
+    }
+    .botao2{
+        padding-left: 10px;
+    }
+    .texto-header .pic{
+        padding-left: 0;
+    }
+    .pic img{
+        width: 430px;
+        height: 300px;
+    }
+    .texto{
+        font-size: x-large;
+    }
+    .info{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .card {
+        width: 130px;
+        height: 260px;
+    }
+
+    .card h1 {
+        font-size: small;
+
+    }
+
+    .card p {
+        font-size: small;
+        padding-left: 5px;
+    }
+
+    .card img {
+        margin: 0;
+        margin-left: 50px;
+    }
+
+    .texto-pe>h1 {
+        font-size: small;
+
+    }
+
+    .text-pe>p {
+        font-size: small;
+    }
+
+    .lista ul {
+        font-size: xx-small;
+        display: block;
+    }
+
+    footer .img img {
+        width: 32px;
+        height: 32px;
+    }
+
+    footer .verif {
+        font-size: small;
+    }
+
+    footer>h2 {
+        font-size: small;
+    }
+
+    footer>div>ul>a {
+        color: white;
+        padding-bottom: 2px;
+        display: flex;
+        align-items: center;
+    }
+
+    footer>div>ul>a>img {
+        padding-right: 5px;
+    }
+}
+@media screen and (max-width:414px){
+    .logo {
+        margin: 300px;
+    }
+    .logo h1{
+        width: 130px;
+    }
+    .pic img{
+        width: 285px;
+        width: 200px;
+    }
+}
+@media screen and (max-width:413.9px){
+  
+  .lista-burguer ul{
+    padding-top: 25px;
+    width: 90px;
+    list-style-type: none;
+
+}
+.lista-burguer li{
+    width: 90px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+.lista-burguer li:hover{
+    background-color: #FF2978;
+    color: white;
+}
+}
+@media screen and (max-width:412px) {
+    
+    .logo {
+        text-align: none;
+        padding: 0;
+        margin: 0;
+        padding-left: 42px;
+    }
+
+    .logo h1 {
+        padding: 0;
+        margin: 0;
+        margin-right: 20px;
+        margin-top: 25px;
+    }
+
+    .texto-header .pg01 {
+        padding-left: 30px;
+    }
+
+    .texto-header h1 {
+        padding-left: 30px;
+    }
+
+    .texto-header .pg02 {
+        padding-left: 30px;
+        font-size: small;
+    }
+
+    .texto-header .botao2 {
+        padding-left: 30px;
+    }
+
+    .texto-header .pic {
+        padding-left: 0px;
+    }
+
+    .pic>img {
+        width: 285px;
+        height: 300px;
+    }
+
+    .texto {
+        font-size: x-large;
+    }
+
+    .info {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .card {
+        width: 130px;
+        height: 260px;
+    }
+
+    .card h1 {
+        font-size: small;
+
+    }
+
+    .card p {
+        font-size: small;
+        padding-left: 5px;
+    }
+
+    .card img {
+        margin: 0;
+        margin-left: 50px;
+    }
+
+    
+
+    .texto-pe>h1 {
+        font-size: small;
+
+    }
+
+    .texto-pe>p {
+        font-size: small;
+    }
+
+    .lista ul {
+        font-size: xx-small;
+        display: block;
+    }
+
+    footer .img img {
+        width: 32px;
+        height: 32px;
+    }
+
+    footer .verif {
+        font-size: small;
+    }
+
+    footer>h2 {
+        font-size: small;
+    }
+
+    footer>div>ul>a {
+        color: white;
+        padding-bottom: 2px;
+        display: flex;
+        align-items: center;
+    }
+
+    footer>div>ul>a>img {
+        padding-right: 5px;
+    }
+}
+@media screen and (max-width:411.9px){
+    footer{
+        position: relative;
+        bottom: 0;
+    }
+}
+@media screen and (max-width:410px){
+    .card{
+        width:125px;
+        height: 320px;
+    }
+    .card img{
+        margin: 0;
+        margin-left: 45px;
+    }
+}
+@media screen and (max-width:394px){
+    .card {
+        width: 120px;
+        height: 300px;
+    }
+
+    .card h1 {
+        font-size:small;
+        
+    }
+
+    .card p {
+        font-size:small;
+        padding-left: 5px;
+    }
+
+    .card img {
+        margin: 0;
+        margin-left: 45px;
+    }
+
+    .texto-pe>h1 {
+        font-size: small;
+
+    }
+
+    .texto-pe>p {
+        font-size: small;
+    }
+
+    .lista ul {
+        font-size: xx-small;
+        display: block;
+    }
+
+    footer .img img {
+        width: 32px;
+        height: 32px;
+    }
+
+    footer .verif {
+        font-size: small;
+    }
+
+    footer>h2 {
+        font-size: small;
+    }
+
+    footer>div>ul>a {
+        color: white;
+        padding-bottom: 2px;
+        display: flex;
+        align-items: center;
+    }
+
+    footer>div>ul>a>img {
+        padding-right: 5px;
+    }
+ 
+}
+
+@media screen and (max-width:393px) {
+    .card {
+        width: 120px;
+        height: 300px;
+    }
+
+    .card h1 {
+        font-size:small;
+
+    }
+
+    .card p {
+        font-size:small;
+        padding-left: 5px;
+    }
+
+    .card img {
+        margin: 0;
+        margin-left: 50px;
+    }
+
+    .texto-pe>h1 {
+        font-size:small;
+
+    }
+
+    .texto-pe>p {
+        font-size: small;
+    }
+
+    .lista ul {
+        font-size: xx-small;
+        display: block;
+    }
+
+    footer .img img {
+        width: 32px;
+        height: 32px;
+    }
+
+    footer .verif {
+        font-size: small;
+    }
+
+    footer>h2 {
+        font-size: small;
+    }
+
+    footer>div>ul>a {
+        color: white;
+        padding-bottom: 2px;
+        display: flex;
+        align-items: center;
+    }
+
+    footer>div>ul>a>img {
+        padding-right: 5px;
+    }
+
+}
+@media screen and (max-width:392.9px){
+    footer{
+        position: relative;
+        bottom: 0;
+    }
+}
+
+@media screen and (max-width:390.9px){
+   
+}
+@media screen and (max-width:390px){
+ 
+}
+@media screen and (max-width:389.9){
+   
+}
+@media screen and (max-width:376px){
+    .logo{
+        margin-left: 25px;
+    }
+    .texto-header .pg01{
+        padding-left: 15px;
+    }
+    .texto-header h1{
+        padding-left: 15px;
+        font-size: 1.0em;
+    }
+    .texto-header .pg02{
+        padding-left: 15px;
+    }
+    .texto-header .botao2{
+        padding-top: 5px;
+        padding-left: 15px;
+    }
+    .contrate{
+        margin: 0;
+    }
+    .pic img{
+        width: 280px;
+        height: 275px;
+    }
+    footer{
+        position: relative;
+        bottom: 0;
+    }
+}
+@media screen and (max-width:370px){
+    .card{
+        width: 110px;
+        height: 300px;
+    }
+    .card h1{
+        font-size: xx-small;
+    }
+    .card p{
+        font-size: xx-small;
+    }
+    
+}
+@media screen and (max-width:360px){
+  
+}
+@media screen and (max-width:359.9px){
+   
+}
+@media screen and (max-width:350px){
+    .card{
+        width: 100px;
+        height: 250px;
+    }
+}
+@media screen and (max-width:320px){
+    .card{
+        width: 90px;
+        height: 220px;
+    }
+}
+@media screen and (max-width:290px){
+
+    .logo{
+        margin: 0;
+    }
+    .texto-header .pg01{
+        width: 180px;
+        font-size: xx-small;
+        padding-left: 1px;
+    }
+    .texto-header .botao2 .contrate a{
+        text-decoration: none;
+        color: white;
+        font-size: 10px;
+        padding-left: 5%;
+    }
+    .contrate{
+        width: 50px;
+        height: 20px;
+        padding-bottom: 30px;
+    }
+    .texto-header h1{
+        font-size: 0.5;
+        font-size: xx-small;
+        text-transform: none;
+        padding-left: 1px;
+    }
+    .texto-header .pg02{
+        font-size: xx-small;
+        padding-left: 1px;
+    }
+    .texto-header .botao2{
+        padding-left: 1px;
+    }
+    .pic img{
+        width: 240px;
+        height: 235px;
+    }
+    .card{
+        width: 85px;
+        height: 210px;
+    }
+    .card img{
+        margin: 0;
+        margin-left: 25px;
+    }
+    footer h2{
+        width: 200px;
+        padding-left: 10px;
+    }
+    .texto{
+        font-size: small;
+    }
+}
